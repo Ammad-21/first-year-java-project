@@ -1,0 +1,24 @@
+.DS_Store
+src/.DS_Store
+
+# Java / Eclipse build output
+bin/
+*.class
+
+# Editor/OS cruft
+*~
+*.swp
+*.tmp
+
+# Archived duplicates
+src/java Zip folder/
+*.zip
+
+# Unused local databases
+gms.db
+
+# Private / local copies
+UMS_private.db
+*.db-journal
+*.db-wal
+*.db-shm
